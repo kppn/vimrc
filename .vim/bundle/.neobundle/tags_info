@@ -1,0 +1,7 @@
+neobundle.vim
+neocomplete.vim
+syntastic
+vim-endwise
+vim-ref
+vim-ref-ri
+vim-tags

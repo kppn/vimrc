@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/kppn/program/scala/test/test07_class_simple'
+let g:netrw_dirhist_2='/home/kppn/program/project/rails/test03/vendor/assets/stylesheets'
+let g:netrw_dirhist_3='/home/kppn/program/project/rails/test05/app/attribute'
+let g:netrw_dirhist_4='/home/kppn/program/project/rails/test03/app/validators'
+let g:netrw_dirhist_5='/home/kppn/program/ruby/test/test36_translater'
+let g:netrw_dirhist_6='/home/kppn/program/project/rails/test05/vendor'
+let g:netrw_dirhist_7='/home/kppn/program/project/rails/test04/app/views/users'
